@@ -9,5 +9,6 @@ public class Text {
         HashSet<String> strings = new HashSet<>();
         strings.add("hello");
         System.out.println(strings);
+        System.out.println("hello,git");
     }
 }
