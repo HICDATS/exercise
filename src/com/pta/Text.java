@@ -16,5 +16,6 @@ public class Text {
         System.out.println("main commit text");
         System.out.println("push text");
         System.out.println("pull text");
+        System.out.println("pull text2");
     }
 }
