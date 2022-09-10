@@ -10,5 +10,6 @@ public class Text {
         strings.add("hello");
         System.out.println(strings);
         System.out.println("hello,git");
+        System.out.println("hello,git2");
     }
 }
